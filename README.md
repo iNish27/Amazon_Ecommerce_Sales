@@ -167,24 +167,6 @@ jupyter notebook Amazon_Ecommerce_Sales_Project.ipynb
 
 </div>
 
----
-
-### 📊 **Quick Access Badges**
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Notebook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iNish27/Amazon_Ecommerce_Sales/blob/main/Amazon_Ecommerce_Sales_Project.ipynb)
-
-[![Open in NBViewer](https://img.shields.io/badge/NBViewer-Render%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/iNish27/Amazon_Ecommerce_Sales/blob/main/Amazon_Ecommerce_Sales_Project.ipynb)
-
-[![Open in Colab](https://img.shields.io/badge/Colab-Run%20Interactive-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/iNish27/Amazon_Ecommerce_Sales/blob/main/Amazon_Ecommerce_Sales_Project.ipynb)
-
-</div>
-
-> 💡 **Recommendation**: Use **NBViewer** for the best visualization experience, or **Google Colab** to run the analysis interactively without any setup!
-
----
-
 ## 📊 Featured Visualizations
 
 ### 🎨 **What You'll Discover:**
@@ -240,9 +222,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 📞 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nish27/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iNish27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nish.sh27@gmail.com)
 
 **⭐ Star this repository if you found it helpful!**
 
