@@ -1,4 +1,4 @@
-# 🚀 Amazon E-commerce Sales Analysis
+# 🚀 E-commerce Sales Analysis
 
 <div align="center">
 
